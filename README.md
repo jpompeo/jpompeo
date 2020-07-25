@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=jpompeo)](https://github.com/jpompeo/github-readme-stats)
+[![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=jpompeo&show_icons=true&theme=radical)](https://github.com/jpompeo/github-readme-stats)
