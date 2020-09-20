@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 Hi all! My name is Joanna.  
-I'm a Full Stack Software Engineer currently looking for opportunities in the Raleigh-Durham area of North Carolina or Remote US. Right now I'm working on building out features for a goal-tracking application I designed for writers, using React, Redux, Node.js, Express, and MongoDB. You can view the code in my writing-app repository or [checkout my demo of it here](https://demo-day.projectshift.io/joanna/). If you'd like to connect, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/joanna-pompeo/) 
+I'm a Full Stack Software Engineer currently looking for opportunities in the Raleigh-Durham area of North Carolina or Remotely in the US. Right now I'm working on building out features for a goal-tracking application I designed for writers, using React, Redux, Node.js, Express, and MongoDB. You can view the code in my writing-app repository or [checkout my demo of it here](https://demo-day.projectshift.io/joanna/). 
+If you'd like to connect, feel free to [contact me on LinkedIn](https://www.linkedin.com/in/joanna-pompeo/) 
+You can also [view my portfolio here](https://joanna-pompeo.netlify.app/projects).
 
 <!--
 [![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=jpompeo&show_icons=true&theme=dracula)](https://github.com/jpompeo/github-readme-stats)
